@@ -1,0 +1,28 @@
+name: Jack Nash
+favicon: null
+layout_spectrum: 0.864983837120235
+typography_spectrum: 0.8288262644782662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.11636619293130934
+  lightness: 0.5418008277192712
+  saturation: 0.23098065773956478
+  rhythmicContrast: 0.7077259358484298
+purpose: []
